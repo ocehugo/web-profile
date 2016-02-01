@@ -1,0 +1,42 @@
+.description {
+        color: gray;
+        font-size: 14;
+        border-style:solid;
+        border-left:4px solid black;
+        padding:20px;
+        padding-left:5px;
+        width:400px;
+}
+.title{
+        color: red;
+        font-size: 25;
+        border-style:dotted;
+        padding: center;
+
+}
+.image{
+        width=50px;
+}
+
+.circ1{
+        stroke: green;
+        fill: red;
+        stroke-width: 5;
+}
+.chart{
+        width=100px;
+        height=100px;
+        position: absolute;
+}
+
+.circ2{
+        stroke:blue;
+        fill:black;
+        stroke-width: 10;
+}
+
+.poly1{
+        fill:  blue;
+        stroke: green;
+        stroke-width: 3;
+}
