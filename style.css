@@ -29,6 +29,13 @@
         position: absolute;
 }
 
+.chart2{
+        width=150px;
+        height=150px;
+        position: absolute;
+}
+
+
 .circ2{
         stroke:blue;
         fill:black;
